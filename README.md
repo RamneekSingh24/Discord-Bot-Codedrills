@@ -14,7 +14,7 @@ Use these commands in the text channel to interact with the bot
 2. !all : shows list of all users
 3. !topics : shows list of topics
 4. !start topicname : Start a contest of 10 problems from the topic
-5. !lb ID : display the leaderboard for the contest with the given ID. (ID of the contest is displayed by the bot in !start)
+5. !lb ID : display the leaderboard for the contest(running/previous) with the given ID. (ID of the contest is displayed by the bot in !start)
 6. !end : end the ongoing contest
 7. !prob ID: display the problem-set of the contest with given ID.(running/previous)
 
