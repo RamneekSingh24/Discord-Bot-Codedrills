@@ -10,7 +10,7 @@ Discord bot for practicing cp-problems
 
 # Commands
 Use these commands in the text channel to interact with the bot
-1. !add username : add user (must be a valid codeforces handle)
+1. !add ~username~ : add user (must be a valid codeforces handle)
 2. !all : shows list of all users
 3. !topics : shows list of topics
 4. !start topicname : Start a contest of 10 problems from the topic
