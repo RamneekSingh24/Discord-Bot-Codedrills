@@ -1,14 +1,14 @@
 # Discord-Bot-Codedrills
-Discord bot for practicing cp-problems
+Discord bot for practicing cp-problems with your friends
 
-# Instructions for adding for to your server
+# Instructions for adding the bot to your server
 
 1. Create a bot account from, https://discord.com/developers/applications and give it general chat and message priviliges.
 2. Change the TOKEN in .env file to your bot's token.
 3. Host the bot on replit.
 4. Add bot to your server.
 
-# Commands
+# Commands/Features
 Use these commands in the text channel to interact with the bot
 1. !add _username_ : add user (must be a valid codeforces handle)
 2. !all : shows list of all users
