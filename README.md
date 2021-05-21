@@ -5,8 +5,9 @@ Discord bot for practicing cp-problems with your friends
 
 1. Create a bot account from, https://discord.com/developers/applications and give it general chat and message priviliges.
 2. Change the TOKEN in .env file to your bot's token.
-3. Host the bot on replit.
-4. Add bot to your server.
+3. Make sure to delete the contents of 'contests' folder.
+4. Host the bot on replit.
+5. Add bot to your server.
 
 # Commands/Features
 Use these commands in the text channel to interact with the bot
